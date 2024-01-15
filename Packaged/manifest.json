@@ -1,0 +1,7 @@
+{
+    "name": "SmarterRail",
+    "version_number": "0.0.3",
+    "website_url": "https://github.com/unfoundbug",
+    "description": "Prevents rail stations sending excess packs of items. Also prevents sending partial packs.",
+    "dependencies": [ "BepInEx-BepInExPack-5.4.2100" ]
+}
